@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=gnu++11 -m64 -lXi -lXxf86vm -lXinerama -lXcursor -lXfixes -lXrandr -lXext -lXrender -lX11 -lpthread -lxcb -lXau -O3 -fopenmp   CMakeFiles/asst4sph.dir/main.cpp.o  -o ../asst4sph -rdynamic ../external/glew/libglew.a ../external/glfw/src/libglfw3.a -lrt -lm -lX11 -lpthread -lXrandr -lXinerama -lXi -lXxf86vm -lXcursor -lGL -ldl 
